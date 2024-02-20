@@ -1,18 +1,18 @@
 # Data-structures and Algorithms
-Data structures & Algorithms with Solutions using Python
+Data structures & Algorithms Solutions using Python 
 
-# Concepts
+## Concepts
 
-Arrays
-Strings
-LinkedList
-Trees
-Trie
-Graphs
-Math
-
-Binary Search
-Recursion
-Sorting
-Backtracking
-Dynamic Programming
+- Arrays
+- Strings
+- LinkedList
+- Trees
+- Trie
+- Graphs
+- Math
+---
+- Binary Search
+- Recursion
+- Sorting
+- Backtracking
+- Dynamic Programming
